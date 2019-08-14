@@ -15,10 +15,10 @@ this parameter is, the smoother the solutions we obtain (more locally consistent
 From project directory type in console: `MyHornSchunck.py car1.jpg car2.jpg` <br />
 Output: <br />
 <p align="center">
-  <img width="300" height="300" src="https://github.com/lmiz100/Otical-flow-Horn-Schunck-method/blob/master/results/car%20res.png?raw=true">
+  <img width="500" height="500" src="https://github.com/lmiz100/Otical-flow-Horn-Schunck-method/blob/master/results/car%20res.png?raw=true">
 </p>
 
 Anothr test options: <br />
 `MyHornSchunck.py sphere1.bmp sphere2.bmp`  <br />
 `MyHornSchunck.py table1.jpg table2.jpg` <br />
-See [results](https://github.com/lmiz100/Otical-flow-Horn-Schunck-method/tree/master/results)
+See [results](https://github.com/lmiz100/Otical-flow-Horn-Schunck-method/tree/master/results).
