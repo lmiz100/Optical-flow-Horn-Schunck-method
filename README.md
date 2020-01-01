@@ -1,4 +1,4 @@
-# Otical flow: Horn–Schunck method
+# Optical flow: Horn–Schunck method
 
 ## Description
 Python implementation of [Horn–Schunck method](https://en.wikipedia.org/wiki/Horn%E2%80%93Schunck_method) for estimating optical flow. <br />
